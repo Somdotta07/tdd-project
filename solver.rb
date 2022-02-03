@@ -8,8 +8,8 @@ class Solver
       num * factorial(num - 1)
     end
   end
-  
-def fizzbuzz(number)
+
+  def fizzbuzz(number)
     if (number % 5).zero? && (number % 3).zero?
       'fizzbuzz'
     elsif (number % 3).zero?
@@ -22,6 +22,6 @@ def fizzbuzz(number)
   end
 
   def reverse(word)
-     word.reverse 
-  end 
-end 
+    word.reverse
+  end
+end

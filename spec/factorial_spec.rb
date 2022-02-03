@@ -14,7 +14,7 @@ describe Solver do
       expect(solver.factorial(4)).to eq 24
     end
   end
-   
+
   context 'should return a factorial of negative number as error' do
     it 'should throw an exception' do
       solver = Solver.new
