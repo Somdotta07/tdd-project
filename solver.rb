@@ -20,3 +20,8 @@ def fizzbuzz(number)
       number.to_s
     end
   end
+
+  def reverse(word)
+     word.reverse 
+  end 
+end 
