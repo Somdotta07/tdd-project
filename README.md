@@ -1,9 +1,10 @@
 # -tdd-project
 
-Using Object Orient Programming to build a simple app.
+This project uses Ruby to initiate a test driven development project.
 ## Built With
 
 - Ruby
+- Rspec
 
 ## To get a local copy up and running follow these  steps
 
@@ -52,9 +53,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- This project is built with Microverse Ruby module
 
 ## 📝 License
 
