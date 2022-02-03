@@ -9,3 +9,14 @@ class Solver
     end
   end
   
+def fizzbuzz(number)
+    if (number % 5).zero? && (number % 3).zero?
+      'fizzbuzz'
+    elsif (number % 3).zero?
+      'fizz'
+    elsif (number % 5).zero?
+      'buzz'
+    else
+      number.to_s
+    end
+  end
